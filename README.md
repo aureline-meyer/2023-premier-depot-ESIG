@@ -1,3 +1,3 @@
-# 1er dépôt d'Auréline
+# Premier dépôt d'Auréline
 Premier dépôt
 nouveau paragraphe
